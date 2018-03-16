@@ -1,0 +1,1 @@
+# AngularJs-Friends-module
